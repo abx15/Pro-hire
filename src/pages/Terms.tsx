@@ -3,6 +3,9 @@ import Footer from "@/components/layout/Footer";
 import { Badge } from "@/components/ui/badge";
 import { motion } from "framer-motion";
 
+
+
+
 const Terms = () => {
   return (
     <div className="min-h-screen bg-background">
