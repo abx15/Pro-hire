@@ -1,8 +1,17 @@
 {
   "name": "hire Mate",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
+  "author": "Arun Kumar Bind <https://github.com/abx15>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abx15/Pro-hire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abx15/Pro-hire/issues"
+  },
+  "homepage": "https://pro-hire.vercel.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

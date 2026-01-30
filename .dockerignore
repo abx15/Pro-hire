@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+.github
+.vscode
+Dockerfile
+.dockerignore
+README.md
+LICENSE
+coverage
+npm-debug.log
+yarn-error.log
